@@ -1,4 +1,3 @@
-Siap! Aku buatin **Studi Kasus 1: Penghitung Diskon** lengkap dengan **kode Java**, **penjelasan**, dan **contoh output**.
 
 ---
 
